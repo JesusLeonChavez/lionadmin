@@ -3,7 +3,7 @@ import React from 'react'
 //styles
 import "./topbar.css"
 
-//material ui
+//Libraries
 import {NotificationsNone, Language, Settings} from '@mui/icons-material';
 
 export default function TopBar() {
