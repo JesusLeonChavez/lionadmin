@@ -5,6 +5,7 @@ import TopBar from "./components/topbar/TopBar";
 //Pages
 import Home from "./pages/home/Home";
 import UserList from "./pages/userList/UserList";
+import User from "./pages/user/User";
 
 //styles
 import "./app.css";
@@ -22,6 +23,7 @@ function App() {
         <Routes>
           <Route exact path="/" element={<Home />} />
           <Route path="/users" element={<UserList />} />
+          <Route path="/user/:userId" element={<User/>} />
         </Routes>
       </div>
     </Router>
