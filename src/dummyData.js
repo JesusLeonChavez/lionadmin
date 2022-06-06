@@ -1,4 +1,4 @@
-export const userData = [
+  export const userData = [
     {
       name: "Jan",
       "Active User": 4000,
@@ -46,5 +46,98 @@ export const userData = [
     {
       name: "Dec",
       "Active User": 3000,
+    },
+  ];
+
+  export const userRows = [
+    {
+      id: 1,
+      username: "Leonidas Snow",
+      avatar:
+        "https://images.pexels.com/photos/1526814/pexels-photo-1526814.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "leonidas@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 2,
+      username: "Leonidas Snow",
+      avatar:
+        "https://images.pexels.com/photos/1526814/pexels-photo-1526814.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "leonidas@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 3,
+      username: "Leonidas Snow",
+      avatar:
+        "https://images.pexels.com/photos/1526814/pexels-photo-1526814.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "leonidas@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 4,
+      username: "Leonidas Snow",
+      avatar:
+        "https://images.pexels.com/photos/1526814/pexels-photo-1526814.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "leonidas@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 5,
+      username: "Leonidas Snow",
+      avatar:
+        "https://images.pexels.com/photos/1526814/pexels-photo-1526814.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "leonidas@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 6,
+      username: "Leonidas Snow",
+      avatar:
+        "https://images.pexels.com/photos/1526814/pexels-photo-1526814.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "leonidas@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 7,
+      username: "Leonidas Snow",
+      avatar:
+        "https://images.pexels.com/photos/1526814/pexels-photo-1526814.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "leonidas@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 8,
+      username: "Leonidas Snow",
+      avatar:
+        "https://images.pexels.com/photos/1526814/pexels-photo-1526814.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "leonidas@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 9,
+      username: "Leonidas Snow",
+      avatar:
+        "https://images.pexels.com/photos/1526814/pexels-photo-1526814.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "leonidas@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 10,
+      username: "Leonidas Snow",
+      avatar:
+        "https://images.pexels.com/photos/1526814/pexels-photo-1526814.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "leonidas@gmail.com",
+      status: "active",
+      transaction: "$120.00",
     },
   ];
