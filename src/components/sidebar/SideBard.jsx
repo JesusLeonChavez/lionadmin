@@ -44,8 +44,7 @@ export default function SideBard() {
         <div className="sidebarMenu">
           <h3 className="sidebarTitle">Quick Menu</h3>
           <ul className="sidebarList">
-              {/* solucionar router */}
-            {/* <Link to="/users" className="link">
+            <Link to="/users" className="link">
               <li className="sidebarListItem">
                 <PermIdentity className="sidebarIcon" />
                 Users
@@ -56,7 +55,7 @@ export default function SideBard() {
                 <Storefront className="sidebarIcon" />
                 Products
               </li>
-            </Link> */}
+            </Link>
             <li className="sidebarListItem">
               <AttachMoney className="sidebarIcon" />
               Transactions
