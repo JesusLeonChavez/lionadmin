@@ -3,7 +3,7 @@ import React from "react";
 //styles
 import "./sidebar.css";
 
-//libreries
+//libraries
 import {
   LineStyle,
   Timeline,
